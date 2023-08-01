@@ -7,7 +7,7 @@
 ## 💻 ...
 <a href = "https://github.com/HohyunSon"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 </a> <a href = "https://www.notion.so/Java-e9525c76b31b4df2b1077efce1d99977?pvs=4"> <img alt="notion" src ="https://img.shields.io/badge/notion-black.svg?&style=for-the-badge&logo=notion&logoColor=white"/></a>
-</a> <a href = "hun-se.slack.com"> <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/></a>
+
 
 <!--
 **HohyunSon/HohyunSon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
