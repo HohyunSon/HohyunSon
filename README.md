@@ -1,3 +1,5 @@
+<div align=center>
+
 # Son Hohyun
 ### Hi there 👋 </br>I'm Hohyun Son, I hope to Backend-Engineer
 
@@ -9,6 +11,7 @@
 </a> <a href = "https://www.notion.so/Java-e9525c76b31b4df2b1077efce1d99977?pvs=4"> <img alt="notion" src ="https://img.shields.io/badge/notion-black.svg?&style=for-the-badge&logo=notion&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HohyunSon&show_icons=true&theme=shadow_red)
+</div>
 <!--
 **HohyunSon/HohyunSon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
