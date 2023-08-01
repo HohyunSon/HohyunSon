@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://www.notion.so/Java-e9525c76b31b4df2b1077efce1d99977?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-ffffff?style=flat&logo=appvoyor&logoColor=000000"/></a>
+<a href="https://www.notion.so/Java-e9525c76b31b4df2b1077efce1d99977?pvs=4" target="_blank"><img src="https://img.shields.io/badge/000000?style=flat&logo=appvoyor&logoColor=ffffff"/></a>
 
 <!--
 **HohyunSon/HohyunSon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
