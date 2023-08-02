@@ -1,5 +1,5 @@
 # Son Hohyun
-### Hi there 👋 </br>I'm Hohyun Son, I'm studying programming languages.
+### Hi there 👋.
 
 ### 💻 My Stack
 <img src="https://img.shields.io/badge/Java-3766AB?style=plastic&logo=Java&logoColor=white"/>  <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=plastic&logo=HTML5&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=plastic&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=plastic&logo=JavaScript&logoColor=black"/>
