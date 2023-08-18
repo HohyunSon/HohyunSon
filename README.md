@@ -8,7 +8,7 @@
 
 ### 💻 Link
 <a href = "https://github.com/HohyunSon"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
-</a> <a href = "https://www.notion.so/Java-e9525c76b31b4df2b1077efce1d99977?pvs=4"> <img alt="notion" src ="https://img.shields.io/badge/notion-black.svg?&style=for-the-badge&logo=notion&logoColor=white"/></a>
+</a> <a href = "https://holistic-rhinoceros-c86.notion.site/Son-4d878d943f224fc9a692100220b7dd6e?pvs=4"> <img alt="notion" src ="https://img.shields.io/badge/notion-black.svg?&style=for-the-badge&logo=notion&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HohyunSon&show_icons=true&theme=shadow_red)
 </div>
